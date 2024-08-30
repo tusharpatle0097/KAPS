@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome",
+    "paragraph": "Welcome to KAPS, where innovation meets excellence in IT solutions. Let us empower your business with cutting-edge technology and unparalleled support."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -18,6 +18,44 @@
       "Lorem ipsum dolor"
     ]
   },
+
+  "navigation": [
+    {
+      "title": "Features",
+      "link":"#features"
+    },
+    {
+      "title": "About",
+      "link":"#about"
+
+    },
+    {
+      "title": "Services",
+      "link":"#services"
+
+    },
+    {
+      "title": "Gallery",
+      "link":"#portfolio"
+
+    },
+    {
+      "title": "Testimonials",
+      "link":"#testimonials"
+
+    },
+    {
+      "title": "Team",
+      "link":"#team"
+
+    },
+    {
+      "title": "Contact",
+      "link":"#contact"
+
+    }
+  ],
+
   "Gallery": [
     {
       "title": "Project Title",
